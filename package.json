@@ -1,0 +1,31 @@
+{
+  "name": "personal-finance-tracking-(fsd)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamshi060605/Personal-Finance-tracking--FSD-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamshi060605/Personal-Finance-tracking--FSD-/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/vamshi060605/Personal-Finance-tracking--FSD-#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
